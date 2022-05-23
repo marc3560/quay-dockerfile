@@ -1,1 +1,1 @@
-FROM quay.io/fluentd_elasticsearch/elasticsearch:v7.4.3
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.5.0
