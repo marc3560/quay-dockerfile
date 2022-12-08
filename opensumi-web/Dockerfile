@@ -1,0 +1,1 @@
+FROM ghcr.io/opensumi/opensumi-web:latest
